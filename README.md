@@ -1,4 +1,5 @@
 # ecommerce-search
+![CI](https://github.com/r33thompson/ecommerce-search/actions/workflows/ci.yml/badge.svg)
 
 A minimal Spring Boot + Kotlin project that demonstrates the basics of an e-commerce **search retrieval and ranking** pipeline backed by Elasticsearch. Built as a 2–3 hour learning exercise — small surface area, but enough moving parts to show how field boosting and fuzzy matching shape ranked results.
 
